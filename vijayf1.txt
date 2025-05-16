@@ -1,1 +1,2 @@
 Different change in main
+This line will cause a conflict
