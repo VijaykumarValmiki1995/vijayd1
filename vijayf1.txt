@@ -1,2 +1,1 @@
-This is the first version of the file
-This line is from feature1 branch
+Different change in main
